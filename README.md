@@ -2,8 +2,8 @@
 
 A small desktop app that shows live spot prices for **gold, silver, platinum, and palladium** in a clean window with dark and light themes. No account, no API key, nothing to install beyond Python.
 
-![Dark theme](screenshots/dark.png)
-![Light theme](screenshots/light.png)
+![Dark theme](screenshots/DARK.png)
+![Light theme](screenshots/LIGHT.png)
 
 ## Features
 
